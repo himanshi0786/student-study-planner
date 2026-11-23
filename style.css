@@ -20,3 +20,20 @@ p {
 h2 {
     color: #8768c5;
 }
+
+.task-box {
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #d8c9f5;
+    border-radius: 12px;
+}
+
+.task-box h2 {
+    color: #6045a5;
+}
+
+.task-box p {
+    color: #555555;
+}
